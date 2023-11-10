@@ -1,1 +1,8 @@
-hello man
+git init
+git remote add origin "https://github.com/RawanTata/test-on-github.git"
+ git pull origin main
+get status
+git add .\edu1.txt
+ git commit -m "test1"
+git add -A
+git commit -a -m "adding 3 files"
