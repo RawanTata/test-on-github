@@ -10,5 +10,14 @@ git log
 commit 30caf6ce7e2f07bb36cea9402d3190e72e712a31 (HEAD -> main)
 Author: RawanGomaa <s2200458025@students.fh-hagenberg.at>
 Date:   Fri Nov 10 13:25:43 2023 +0100
+*************************
+merge
+git branch firstbranch
+git status
+according where i am i can merg 
+git merge firstbranch
+
+
+
 
 
